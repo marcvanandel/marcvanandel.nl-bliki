@@ -1,5 +1,6 @@
 ---
 title: My first 'Git sourced' blog post
+post_date: 2023-09-04
 ---
 Today I wanted to apply 'GitOps' to my blogs.
 Would it be possible, easy and benificial to develop blogs and content with
