@@ -1,5 +1,9 @@
 ---
 title: Event Sourcing
+taxonomy:
+  category:
+    - Bliki
+    - Architecture
 ---
 There's so much to say about Event Sourcing ... but for now it is just a placeholder for more content to come. At least let me drop that it is a _paradigm shift_ to what we do today mostly :smirk:
 
