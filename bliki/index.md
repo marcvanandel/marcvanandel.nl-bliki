@@ -10,6 +10,6 @@ This is the home of my 'bliki'(*) pages. Blogs and Wiki-like pages published on
 
 > *The term 'bliki' is coined by [Martin Fowler](https://martinfowler.com/bliki/WhatIsaBliki.html)
 
-# Subjects
+## Subjects
 
 - [Event Sourcing](./event-sourcing.md)
