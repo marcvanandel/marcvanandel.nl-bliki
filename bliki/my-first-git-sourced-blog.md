@@ -1,3 +1,6 @@
+---
+title: My first 'Git sourced' blog post
+---
 Today I wanted to apply 'GitOps' to my blogs.
 Would it be possible, easy and benificial to develop blogs and content with
 Markdown in a git repository while still using Wordpress for publishing the content?
